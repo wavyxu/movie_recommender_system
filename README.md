@@ -2,7 +2,7 @@
 Implement a recommender algorithm -- Item Collaborative Filtering ( Item CF )
 
 # How to run:
-cd RecommenderSystem
+#cd RecommenderSystem
 hdfs dfs -mkdir /input
 hdfs dfs -put input/* /input  # 把user 相关的rating 文件上传
 hdfs dfs -rm -r /dataDividedByUser
