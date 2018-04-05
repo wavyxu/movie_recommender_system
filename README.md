@@ -1,5 +1,5 @@
 # MovieRecommenderSystem
-Implement a recommender algorithm -- Item Collaborative Filtering ( Item CF )
+Implement a recommender algorithm -- Item Collaborative Filtering ( Item CF ), with Mapper-reducer
 
 ## How to run:
 cd RecommenderSystem <br> 
